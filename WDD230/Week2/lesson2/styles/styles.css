@@ -1,0 +1,21 @@
+body{
+    background-color: #393E46;
+}
+#navlogo{border: solid;
+height: 150px;}
+.navContainer{
+    border: solid;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    align-items: center;
+    margin: auto;
+}
+.navLi{
+    text-align: center;
+    list-style: none;
+    border: solid;
+    margin: auto;
+    padding: 0.5rem;
+    
+}
+#nav1{}
